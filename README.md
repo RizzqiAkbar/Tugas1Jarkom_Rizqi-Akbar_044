@@ -11,6 +11,9 @@ NRP: 5027241044
 Prefix:
 10.(NRP mod 256).0.0 → 10.84.0.0/16
 
+## Topologi
+<img width="1044" height="587" alt="Screenshot 2025-11-13 160139" src="https://github.com/user-attachments/assets/fa552283-564e-4db2-a1de-83ea39af043e" />
+
 ## Perhitungan VLSM
 VLSM digunakan agar setiap jaringan (unit kerja) mendapatkan ukuran subnet pas sesuai kebutuhan host, sehingga tidak ada pemborosan IP.
 
