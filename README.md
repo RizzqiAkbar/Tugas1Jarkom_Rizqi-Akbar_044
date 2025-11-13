@@ -37,7 +37,7 @@ Subnet	Host	Dibulatkan (2^n)	Prefix
 - Pengawas	18	32	/27
 - Server & Admin	6	6	/29
 - Link WAN	2	4	/30
-- 
+
 ### Alokasikan subnet berurutan dari base network
 
 Base network = 10.84.0.0/16
